@@ -1,0 +1,13 @@
+PROJET GICCO — MAQUETTE HTML
+
+Pour ouvrir le site, décompressez cette archive puis double-cliquez sur index.html.
+Aucune installation ni connexion Internet n’est nécessaire.
+
+index.html contient le HTML, le CSS, le JavaScript et le logo intégré.
+Vous pouvez modifier ce fichier dans votre éditeur de code.
+
+verification-contenu.txt contient la relecture de la présentation et les points à valider avec le client avant la mise en production.
+
+Cette version est une maquette locale. Les liens email et téléphone ouvrent les applications correspondantes. Elle ne comporte ni formulaire serveur ni collecte de données.
+
+VERSION 2 : visuels et animations enrichis. Les images sont également fournies séparément dans assets/, avec les prompts de génération.

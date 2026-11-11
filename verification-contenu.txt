@@ -1,0 +1,40 @@
+GICCO — Relecture de la présentation et périmètre de la maquette
+Source : GICCO_boucle_ecran_Preventica_Version 1011_.pptx, 11 diapositives.
+
+CONTENU RETENU
+Diapositives 1–3 : positionnement, villes citées, données, décisions et acteurs clés.
+Diapositives 4–7 : OSINT, menaces, protection internationale et sécurité électronique.
+Diapositives 8–9 : six moments critiques et méthode en quatre étapes.
+Diapositives 10–11 : expertise, confidentialité et coordonnées.
+Le logo original a été extrait du PowerPoint et intégré au HTML sans modification.
+
+CORRECTIONS ÉDITORIALES APPLIQUÉES AU SITE
+- Suppression du doublon « de la de l’intelligence économique » (diapositive 10).
+- Correction des accents et formulations : « capacité », « maîtrisons », « évaluation », « contactez-nous ».
+- Harmonisation de « conseil d’administration », COMEX et de la ponctuation.
+- Reformulation des phrases destinées à l’écran de salon pour une lecture web.
+- Retrait des mentions répétées « Stand N09 · Préventica Casablanca 2026 » : le site est conçu pour un usage permanent.
+- Les promesses absolues ou comparatives non étayées (« plateformes uniques », « spécialistes reconnus ») ne sont pas reprises telles quelles.
+
+POINTS À FAIRE VALIDER PAR LE CLIENT AVANT LA VERSION DE PRODUCTION
+- Assistance 24 h/24, 7 j/7 : périmètre et conditions, repris de la diapositive 6.
+- Accord de confidentialité dès le premier contact : procédure réelle, reprise de la diapositive 10. Un email ordinaire n’est pas présenté comme un canal chiffré.
+- Villes citées : Genève, Boston, San Francisco et Casablanca ; la présentation ne précise pas s’il s’agit de bureaux ou de zones de présence.
+- Coordonnées : info@gicco-group.com ; +41 799 212 605, reprises à l’identique dans le texte visible.
+- Identité juridique, adresse du siège, mentions légales et éventuelles informations de confidentialité à fournir avant publication.
+- Ces éléments sont vérifiés par rapport au PowerPoint uniquement ; aucune certification indépendante des prestations n’a été réalisée.
+
+LIVRABLE
+index.html : un fichier autonome, français, HTML/CSS/JavaScript intégrés, sans framework, dépendance distante, police distante, outil de suivi ni étape de compilation.
+Ouverture : double-cliquer sur index.html dans un navigateur.
+Le prompt joint a servi d’inspiration : fond sombre immersif, globe, animation d’entrée, appels à l’action, menu mobile et réduction des animations selon les préférences système. Le globe est dessiné localement pour préserver l’autonomie du fichier et adopter la couleur bleue. La page comporte plusieurs sections défilantes pour restituer le contenu de la présentation.
+Les liens email et téléphone ouvrent les applications correspondantes. Aucun formulaire ni serveur de collecte n’est installé. Aucune publication n’a été effectuée.
+
+VÉRIFICATION
+Rendu bureau inspecté dans le navigateur ; navigation vers les expertises et ouverture des détails vérifiées.
+Adaptations mobiles présentes dans le CSS ; pas de contrôle visuel sur appareil mobile physique.
+
+MISE À JOUR VISUELLE V2
+Deux illustrations IA intégrées au HTML : salle de conseil et analyse électronique. Les fichiers sources et les prompts sont conservés dans assets/.
+Apparitions au défilement, zoom au survol, reflets sur les boutons, lumière bleue animée, progression de lecture et pause des animations.
+Le HTML reste autonome ; les images JPEG sont embarquées.
